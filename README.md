@@ -7,12 +7,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Unity_Game_Dev-1E3A8A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Game Dev" />
   <img src="https://img.shields.io/badge/.NET_Backend_Architect-1E40AF?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Backend" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-1D4ED8?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/SOLID_&_Clean_Code-1D4ED8?style=for-the-badge" alt="SOLID & Clean Code" />
 </p>
 
 <p align="center">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/BoraIrgin?color=1e40af&label=STARS&logo=github&style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=BoraIrgin&color=1e40af&style=for-the-badge&label=PROFILE+VIEWS" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=BoraIrgin&color=1e40af&style=for-the-badge&label=PROFILE+VIEWS">
 </p>
 
 <br/>
@@ -23,10 +23,11 @@
 
 | 🕹️ Game Development | ⚡ Backend & Data | 🏛️ Architecture & Tools |
 | :---: | :---: | :---: |
-| **Unity Engine (2D/3D)** | **C# & .NET** | **N-Tier Architecture** |
-| **C# Scripting** | **Entity Framework (Code-First)** | **Dependency Injection** |
-| **ScriptableObjects** | **Microsoft SQL Server (MSSQL)** | **Repository Pattern** |
-| **Game Physics & Mechanics** | **ASP.NET Core Web API** | **Git & GitHub** |
+| **Unity Engine (2D/3D)** | **C# & .NET** | **SOLID Principles** |
+| **C# Scripting** | **Entity Framework (Code-First)** | **N-Tier Architecture** |
+| **ScriptableObjects** | **Microsoft SQL Server (MSSQL)** | **Dependency Injection** |
+| **Game Physics & Mechanics** | **ASP.NET Core Web API** | **Repository Pattern** |
+| **Gameplay Systems** | **LINQ & Relational DB** | **Git & GitHub** |
 
 </div>
 
